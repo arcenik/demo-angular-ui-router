@@ -1,0 +1,25 @@
+{
+  "name": "demo-angular-ui-router",
+  "version": "0.1.0",
+  "author": "François Scala",
+  "license": "ISC",
+  "description": "Simple Site to demonstrate Angular UI Router",
+  "homepage": "https://github.com/arcenik/demo-angular-ui-router#readme",
+  "bugs": {
+    "url": "https://github.com/arcenik/demo-angular-ui-router/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcenik/demo-angular-ui-router.git"
+  },
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "grunt": "^1.0.1",
+    "grunt-bower-install": "^1.6.0"
+  }
+}
